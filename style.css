@@ -125,7 +125,8 @@ select {
 
 select {
   color: #ff6f47;
-  width: 10rem;
+  font-family: "Poppins", sans-serif;
+  width: 12rem;
   cursor: pointer;
   padding: 1rem;
 }
